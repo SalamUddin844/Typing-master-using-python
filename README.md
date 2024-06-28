@@ -1,2 +1,2 @@
 # Typing-master-using-python,
-download that on you pc and run with cmd . 
+download that on your pc and run with cmd . 
